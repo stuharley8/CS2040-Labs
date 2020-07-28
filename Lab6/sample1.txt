@@ -1,0 +1,13 @@
+3
+1
+0 1 east
+0 2 south
+1 0 west
+-1
+0 exit MazeExit
+1 key MazeKey
+0 treasure Gold
+0 treasure Diamond
+2 teleporter Teleporter1
+1 teleporter Teleporter2
+-1

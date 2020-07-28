@@ -1,0 +1,26 @@
+8
+0
+0 1 east
+1 0 west
+2 1 west
+3 4 east
+4 5 east
+4 5 west
+6 7 east
+7 6 west
+2 6 north
+1 3 north
+3 1 north
+4 2 north
+6 4 north
+5 7 south
+-1
+7 exit MazeExit
+4 key MazeKey
+3 teleporter MagicMirror
+3 treasure Doubloon
+6 treasure DiamondNecklace
+2 treasure PegLeg
+5 treasure EyePatch
+5 treasure GoldBar
+-1
