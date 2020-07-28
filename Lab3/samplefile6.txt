@@ -1,0 +1,18 @@
+3
+1 1
+FD
+RT
+RT
+FD
+RT
+RT
+FD
+FD
+RT
+RT
+FD
+FD
+RT
+RT
+FD
+FD

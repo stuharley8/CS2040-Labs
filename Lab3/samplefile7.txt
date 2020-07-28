@@ -1,0 +1,15 @@
+5
+2 2
+LT
+FD
+FD
+FD
+FD
+FD
+RT
+RT
+BK
+BK
+BK
+BK
+BK
